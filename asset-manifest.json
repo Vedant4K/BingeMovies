@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BingeMovies/static/css/main.334bdeb1.css",
+    "main.js": "/BingeMovies/static/js/main.9643cab0.js",
+    "index.html": "/BingeMovies/index.html",
+    "static/media/search.svg": "/BingeMovies/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/BingeMovies/static/css/main.334bdeb1.css.map",
+    "main.9643cab0.js.map": "/BingeMovies/static/js/main.9643cab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.9643cab0.js"
+  ]
+}
